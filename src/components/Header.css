@@ -1,0 +1,37 @@
+.test{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(25, 62, 196);
+    color: #FFFFFF;
+    position: fixed;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    top: 0;
+    z-index: 10;
+    font-size: 30px;
+    
+}
+a{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+a:hover {
+    color: rgb(23, 46, 46);
+}
+a:focus{
+    color:  rgb(212, 217, 51);
+    border-bottom: 3px solid rgb(212, 217, 51);
+}
+.ipSearch{
+    outline: none;
+    border-radius: 10px;
+    padding: 15px;
+    font-size: 20px;
+}
+
+.btn {
+    text-align: right;
+    margin: 20px;  
+}
+

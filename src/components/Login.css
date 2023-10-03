@@ -1,0 +1,10 @@
+.loginForm{
+    margin: auto;
+    background-color: rgb(99, 174, 186);
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
